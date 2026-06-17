@@ -1,0 +1,29 @@
+{
+  "teams": [
+    {
+      "team": "Dunder Mifflin",
+      "sprintName": "Sprint Reports",
+      "totalPoints": 0,
+      "totalCapacity": 0,
+      "teamPercentage": 0,
+      "ams": []
+    },
+    {
+      "team": "Equipo Maravilla",
+      "sprintName": "Sprint Reports",
+      "totalPoints": 0,
+      "totalCapacity": 0,
+      "teamPercentage": 0,
+      "ams": []
+    },
+    {
+      "team": "Team Rankers",
+      "sprintName": "Sprint Reports",
+      "totalPoints": 0,
+      "totalCapacity": 0,
+      "teamPercentage": 0,
+      "ams": []
+    }
+  ],
+  "generatedAt": "2026-06-17T20:46:47.833Z"
+}
