@@ -1,32 +1,4 @@
 {
-  "teams": [
-    {
-      "totalPoints": 189,
-      "totalCapacity": 800,
-      "teamPercentage": 24,
-      "ams": [
-        {
-          "points": 117,
-          "capacity": 200,
-          "percentage": 59
-        },
-        {
-          "points": 56,
-          "capacity": 200,
-          "percentage": 28
-        },
-        {
-          "points": 13,
-          "capacity": 200,
-          "percentage": 7
-        },
-        {
-          "points": 3,
-          "capacity": 200,
-          "percentage": 2
-        }
-      ]
-    }
-  ],
-  "generatedAt": "2026-06-18T00:48:35.821Z"
+  "teams": [],
+  "generatedAt": "2026-06-18T00:58:47.103Z"
 }
