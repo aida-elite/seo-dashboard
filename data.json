@@ -1,110 +1,37 @@
 {
   "teams": [
     {
-      "team": "Dunder Mifflin",
-      "sprintName": "Sprint 16 (6/15 - 6/28)",
-      "totalPoints": 58,
-      "totalCapacity": 600,
-      "teamPercentage": 10,
-      "ams": [
-        {
-          "name": "Shem M.",
-          "points": 29,
-          "capacity": 200,
-          "percentage": 14
-        },
-        {
-          "name": "Rosana S.",
-          "points": 26,
-          "capacity": 200,
-          "percentage": 13
-        },
-        {
-          "name": "Lorena P.",
-          "points": 3,
-          "capacity": 200,
-          "percentage": 2
-        }
-      ]
-    },
-    {
-      "team": "Equipo Maravilla",
-      "sprintName": "Sprint 18 (6/8 - 6/19)",
-      "totalPoints": 393,
+      "totalPoints": 2424,
       "totalCapacity": 1000,
-      "teamPercentage": 39,
+      "teamPercentage": 100,
       "ams": [
         {
-          "name": "Itzel M.",
-          "points": 183,
+          "points": 912,
           "capacity": 200,
-          "percentage": 92
+          "percentage": 100
         },
         {
-          "name": "Andrea S.",
-          "points": 98,
+          "points": 805,
           "capacity": 200,
-          "percentage": 49
+          "percentage": 100
         },
         {
-          "name": "Ernesto C.",
-          "points": 48,
+          "points": 378,
           "capacity": 200,
-          "percentage": 24
+          "percentage": 100
         },
         {
-          "name": "Lindsey C.",
-          "points": 33,
+          "points": 254,
           "capacity": 200,
-          "percentage": 17
+          "percentage": 100
         },
         {
-          "name": "Daniela L.",
-          "points": 31,
+          "points": 75,
           "capacity": 200,
-          "percentage": 16
-        }
-      ]
-    },
-    {
-      "team": "Team Rankers",
-      "sprintName": "Sprint 5 (6/15 - 6/28)",
-      "totalPoints": 186,
-      "totalCapacity": 1000,
-      "teamPercentage": 19,
-      "ams": [
-        {
-          "name": "Rocio E.",
-          "points": 68,
-          "capacity": 200,
-          "percentage": 34
-        },
-        {
-          "name": "Lucía G.",
-          "points": 40,
-          "capacity": 200,
-          "percentage": 20
-        },
-        {
-          "name": "Veronica L.",
-          "points": 35,
-          "capacity": 200,
-          "percentage": 18
-        },
-        {
-          "name": "Pati R.",
-          "points": 22,
-          "capacity": 200,
-          "percentage": 11
-        },
-        {
-          "name": "Diana B.",
-          "points": 21,
-          "capacity": 200,
-          "percentage": 11
+          "percentage": 38
         }
       ]
     }
   ],
-  "generatedAt": "2026-06-18T00:35:43.762Z"
+  "generatedAt": "2026-06-18T00:48:16.988Z"
 }
