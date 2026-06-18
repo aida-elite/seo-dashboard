@@ -3,117 +3,111 @@
     {
       "team": "Dunder Mifflin",
       "sprintName": "Sprint 16 (6/15 - 6/28)",
-      "totalPoints": 1019,
+      "totalPoints": 1006,
       "totalCapacity": 1400,
-      "teamPercentage": 73,
+      "teamPercentage": 72,
       "ams": [
         {
-          "name": "Shem",
-          "points": 239,
+          "name": "Shem M.",
+          "points": 247,
           "capacity": 200,
           "percentage": 100
         },
         {
-          "name": "Lorena",
+          "name": "Lorena P.",
           "points": 218,
           "capacity": 200,
           "percentage": 100
         },
         {
-          "name": "Rosana",
-          "points": 186,
+          "name": "Rosana S.",
+          "points": 189,
           "capacity": 200,
-          "percentage": 93
+          "percentage": 95
         },
         {
-          "name": "Daniel",
+          "name": "Daniel B.",
           "points": 146,
           "capacity": 200,
           "percentage": 73
         },
         {
-          "name": "Luisa",
-          "points": 82,
+          "name": "KIMBERLY K.",
+          "points": 85,
           "capacity": 200,
-          "percentage": 41
+          "percentage": 43
         },
         {
-          "name": "Hugo",
+          "name": "Hugo C.",
           "points": 79,
           "capacity": 200,
           "percentage": 40
         },
         {
-          "name": "KIMBERLY",
-          "points": 69,
+          "name": "Adriana G.",
+          "points": 42,
           "capacity": 200,
-          "percentage": 35
+          "percentage": 21
         }
       ]
     },
     {
       "team": "Equipo Maravilla",
       "sprintName": "Sprint 18 (6/8 - 6/19)",
-      "totalPoints": 815,
-      "totalCapacity": 2000,
-      "teamPercentage": 41,
+      "totalPoints": 802,
+      "totalCapacity": 1800,
+      "teamPercentage": 45,
       "ams": [
         {
-          "name": "Itzel",
+          "name": "Itzel M.",
           "points": 307,
           "capacity": 200,
           "percentage": 100
         },
         {
-          "name": "Lindsey",
-          "points": 156,
+          "name": "Lindsey C.",
+          "points": 158,
           "capacity": 200,
-          "percentage": 78
+          "percentage": 79
         },
         {
-          "name": "Andrea",
+          "name": "Andrea S.",
           "points": 144,
           "capacity": 200,
           "percentage": 72
         },
         {
-          "name": "Ernesto",
+          "name": "Ernesto C.",
           "points": 72,
           "capacity": 200,
           "percentage": 36
         },
         {
-          "name": "Alexis",
+          "name": "Alexis R.",
           "points": 45,
           "capacity": 200,
           "percentage": 23
         },
         {
-          "name": "Daniela",
+          "name": "Daniela L.",
           "points": 38,
           "capacity": 200,
           "percentage": 19
         },
         {
-          "name": "Valeria",
+          "name": "Valeria L.",
           "points": 35,
           "capacity": 200,
           "percentage": 18
         },
         {
-          "name": "Jenny",
-          "points": 15,
-          "capacity": 200,
-          "percentage": 8
-        },
-        {
-          "name": "Adriana",
+          "name": "Adriana G.",
           "points": 3,
           "capacity": 200,
           "percentage": 2
         },
         {
-          "name": "Karla",
+          "name": "Karla C.",
           "points": 0,
           "capacity": 200,
           "percentage": 0
@@ -123,54 +117,48 @@
     {
       "team": "Team Rankers",
       "sprintName": "Sprint 5 (6/15 - 6/28)",
-      "totalPoints": 801,
-      "totalCapacity": 1400,
-      "teamPercentage": 57,
+      "totalPoints": 786,
+      "totalCapacity": 1200,
+      "teamPercentage": 66,
       "ams": [
         {
-          "name": "Diana",
+          "name": "Diana B.",
           "points": 182,
           "capacity": 200,
           "percentage": 91
         },
         {
-          "name": "Pati",
+          "name": "Pati R.",
           "points": 156,
           "capacity": 200,
           "percentage": 78
         },
         {
-          "name": "Lucía",
+          "name": "Lucía G.",
           "points": 152,
           "capacity": 200,
           "percentage": 76
         },
         {
-          "name": "Kaomi",
+          "name": "Kaomi N.",
           "points": 112,
           "capacity": 200,
           "percentage": 56
         },
         {
-          "name": "Veronica",
+          "name": "Veronica L.",
           "points": 103,
           "capacity": 200,
           "percentage": 52
         },
         {
-          "name": "Rocio",
-          "points": 78,
+          "name": "Rocio E.",
+          "points": 81,
           "capacity": 200,
-          "percentage": 39
-        },
-        {
-          "name": "Helena",
-          "points": 18,
-          "capacity": 200,
-          "percentage": 9
+          "percentage": 41
         }
       ]
     }
   ],
-  "generatedAt": "2026-06-17T20:57:03.060Z"
+  "generatedAt": "2026-06-18T00:13:59.962Z"
 }
