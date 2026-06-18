@@ -1,37 +1,27 @@
 {
   "teams": [
     {
-      "totalPoints": 2424,
-      "totalCapacity": 1000,
-      "teamPercentage": 100,
+      "totalPoints": 176,
+      "totalCapacity": 600,
+      "teamPercentage": 29,
       "ams": [
         {
-          "points": 912,
+          "points": 117,
           "capacity": 200,
-          "percentage": 100
+          "percentage": 59
         },
         {
-          "points": 805,
+          "points": 56,
           "capacity": 200,
-          "percentage": 100
+          "percentage": 28
         },
         {
-          "points": 378,
+          "points": 3,
           "capacity": 200,
-          "percentage": 100
-        },
-        {
-          "points": 254,
-          "capacity": 200,
-          "percentage": 100
-        },
-        {
-          "points": 75,
-          "capacity": 200,
-          "percentage": 38
+          "percentage": 2
         }
       ]
     }
   ],
-  "generatedAt": "2026-06-18T00:48:16.988Z"
+  "generatedAt": "2026-06-18T00:48:20.217Z"
 }
